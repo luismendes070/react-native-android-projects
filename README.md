@@ -4,7 +4,7 @@ Vector Icons demo
 
 https://github.com/luismendes070/HelloWorldVectorIcons
 
-swapi demo
+swapi demos
 
 https://github.com/luismendes070/frontend-test
 
